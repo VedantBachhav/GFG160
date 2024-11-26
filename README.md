@@ -11,10 +11,10 @@ problem-solving mindset through this endeavor. 💪
 
 -- Stay tuned for daily updates, and feel free to check out my GitHub for solutions and discussions. Let’s embark on this learning journey together! 🚴‍♂️✨
 
-# Your support and feedback are always welcome. ❤️
+-- Your support and feedback are always welcome. ❤️
 
-# Profile link : https://www.geeksforgeeks.org/user/vedant_bachhav/
+-- Profile link : https://www.geeksforgeeks.org/user/vedant_bachhav/
 
-# Challege link : https://www.geeksforgeeks.org/batch/gfg-160-problems?tab=Chapters
+-- Challege link : https://www.geeksforgeeks.org/batch/gfg-160-problems?tab=Chapters
 
 # Thank You❤️❤️.
